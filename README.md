@@ -16,11 +16,6 @@ I am a Front-End Developer with React.js, Next.js, Tailwind CSS, Bootstrap, Node
 
 
 
-<a href="https://www.linkedin.com/in/md-nasim-reza-149ab3164/">![linkedIn](https://github.com/nasimit2020/nasimit2020/assets/61214781/4e77ef78-e753-47a2-b7be-138f62abdf01)
-
-
-</a>
-
 
 <!--
 **nasimit2020/nasimit2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
