@@ -4,7 +4,7 @@
 
 
 
-I am a Front-End Web Developer with React.js, Next.js, JavaScript, TypeScript, Firebase Authentication, Tailwind CSS, Node.js, Express.js, MongoDB. Currently, **I'm open to work and employment opportunities.**
+I am a Front-End Web Developer with React.js, Next.js, JavaScript, TypeScript, Firebase Authentication, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose. Currently, **I'm open to work and employment opportunities.**
 
 
 
