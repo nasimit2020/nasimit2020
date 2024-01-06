@@ -4,16 +4,13 @@
 
 I'M MERN Stack Developer with JavaScript, TypeScript, React.js, Next.js, Firebase, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, Bootstrap. Currently, I'm open to work and employment opportunities.
 
-- 🔭 I’m currently working on as a Freelancer 
+- 🔭 I’m currently working as a Freelancer 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about TypeScript, JavaScript, ReactJS, Mongoose & MongoDB 
 - 📫 How to reach me: https://www.linkedin.com/in/md-nasim-reza-149ab3164/ 
 - ⚡ Fun fact: I love to cook and play football 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasimit2020)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-nasim-reza-149ab3164//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nasim.reza.589/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nasimreza.netlify.app)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimit2020)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimit2020&theme=tokyonight)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nasimit2020&show_icons=true&theme=tokyonight)
 
