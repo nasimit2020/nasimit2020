@@ -14,7 +14,7 @@ I'M MERN Stack Developer with JavaScript, TypeScript, React.js, Next.js, Firebas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nasimit2020&show_icons=true&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nasimit2020)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nasimit2020&theme=tokyonight)  
 
 
 
