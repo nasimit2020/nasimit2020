@@ -9,7 +9,7 @@ I'M MERN Stack Developer with JavaScript, TypeScript, React.js, Next.js, Firebas
 - 🔭 I’m currently working as a Freelancer 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about TypeScript, JavaScript, ReactJS, Mongoose & MongoDB 
-- 📫 How to reach me: https://www.linkedin.com/in/md-nasim-reza-149ab3164/ 
+- 📫 How to reach me: nasimitjesbd@gamil.com
 - ⚡ Fun fact: I love to cook and play football 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimit2020&theme=tokyonight)
