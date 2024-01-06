@@ -15,7 +15,7 @@ I'M MERN Stack Developer with JavaScript, TypeScript, React.js, Next.js, Firebas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimit2020)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimit2020&show_icons=true&count_private=true)  
+![Nasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 ![GitHub metrics](https://metrics.lecoq.io/nasimit2020)  
 
